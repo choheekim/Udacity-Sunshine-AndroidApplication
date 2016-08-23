@@ -1,0 +1,9 @@
+
+Sunshine.iml
+*.iml
+*DS_Store
+*.gradle
+
+.idea/
+build/
+gradle/
