@@ -19,4 +19,20 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_detail">DetailActivity</string>
 
+
+    <!-- Setting EditText Preference label -->
+    <string name="pref_setting_location_label">Location</string>
+    <string name="pref_setting_location_key" translatable="false">location</string>
+    <string name="pref_setting_location_default_key" translatable="false">94607</string>
+
+    <!-- Setting ListPreference label -->
+    <string name="pref_setting_unit_label">Temperature Units</string>
+    <string name="pref_setting_unit_key" translatable="false">unit</string>
+    <string name="pref_setting_unit_default_key" translatable="false">@string/Metric</string>
+
+
+    <!-- Unit label-->
+    <string name="Metric" translatable="false">metric</string>
+    <string name="Imperial" translatable="false">imperial</string>
+
 </resources>

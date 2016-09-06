@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Setting Temperature Units Entries -->
+    <string-array name="pref_setting_unit_array">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+
+
+</resources>
